@@ -7,7 +7,7 @@
 - Minimize the initial setup for new projects.
 - Having a reference to a project setup with best practices
 
-:owl: The planned features are can be found [HERE](https://github.com/users/Mohamed-Abdulaty/projects/3)
+:owl: The planned features can be found [HERE](https://github.com/users/Mohamed-Abdulaty/projects/3)
 
 
 
