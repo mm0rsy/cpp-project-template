@@ -1,5 +1,7 @@
 # Template Project (C++) :owl::coffee:
 
+> check the [WiKi](https://github.com/Mohamed-Abdulaty/cpp-project-template/wiki) for more information
+
 ## The aim of this project/repo:
 - Get a unified project template that can work for any c/c++ project.
 - Minimize the initial setup for new projects.
